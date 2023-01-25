@@ -1,0 +1,23 @@
+{
+  "name": "sedona-mine",
+  "version": "1.0.0",
+  "description": "personal project for htmlacademy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsslava/sedona-mine.git"
+  },
+  "keywords": [
+    "sedona",
+    "adaptive"
+  ],
+  "author": "itsslava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsslava/sedona-mine/issues"
+  },
+  "homepage": "https://github.com/itsslava/sedona-mine#readme"
+}
