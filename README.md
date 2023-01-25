@@ -1,1 +1,2 @@
-# sedona-mine
+author: itsslava
+project: sedona
